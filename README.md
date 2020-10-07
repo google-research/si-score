@@ -11,7 +11,19 @@ Here are some sample images from the dataset:
 <img src="sample_images/demo_img_koala_default.jpg" width="200"> <img src="sample_images/demo_img_koala_loc_76.jpg" width="200"> <img src="sample_images/demo_img_koala_rotate_230.jpg" width="200">
 
 ## Citing this dataset
-When using this dataset, please cite our paper [On Robustness and Transferability of CNNs (Djolonga et. al., 2020)](https://arxiv.org/abs/2007.08558). There are also more dataset details in Appendix D of the paper.
+When using this dataset, please cite our paper [On Robustness and Transferability of CNNs (Djolonga et. al., 2020)](https://arxiv.org/abs/2007.08558). There are also more dataset details in Appendix D of the paper. 
+
+Here is the Bibtex entry for the paper:
+```
+@misc{djolonga2020robustness,
+      title={On Robustness and Transferability of Convolutional Neural Networks}, 
+      author={Josip Djolonga and Jessica Yung and Michael Tschannen and Rob Romijnders and Lucas Beyer and Alexander Kolesnikov and Joan Puigcerver and Matthias Minderer and Alexander D'Amour and Dan Moldovan and Sylvain Gelly and Neil Houlsby and Xiaohua Zhai and Mario Lucic},
+      year={2020},
+      eprint={2007.08558},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Downloading the dataset
 The dataset is hosted by CVDF in an AWS s3 bucket. You can download the data by [installing the AWS CLI tool](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) and running the following command
