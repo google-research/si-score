@@ -62,3 +62,6 @@ The foreground images are segmented from OpenImages, which comprises CC-licensed
 The attributions for each image can be found on the [OpenImages website](https://storage.googleapis.com/openimages/web/download.html) in the Image IDs CSVs.
 
 The background images hosted on CVDF all come from Pexels.com and carry a Pexels license. Some images in the `background_samples/` directory do not carry a Pexels license. The attributions for these images are listed in `samples_attributions.md`.
+
+## Contributors
+This dataset was developed by Jessica Yung, Xiaohua Zhai, Mario Lucic with paper co-authors Josip Djolonga, Michael Tschannen, Rob Romijnders, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Matthias Minderer, Alexander D'Amour, Dan Moldovan, Sylvain Gelly and Neil Houlsby.
